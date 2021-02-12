@@ -19,6 +19,5 @@ void main(void)
             __delay_ms (500) ;
             PORTDbits.RD1 = 0 ;
             __delay_ms (500) ;
-    }      
-        
+    }             
 }
